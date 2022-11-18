@@ -1,0 +1,141 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.8 in,top=0.8in,right=0.8 in,bottom=0.8in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Nandan N} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91 99168 84047 \\ Bangalore, India} 
+\address{\href{mailto:write2nandann@gmail.com}{write2nandann@gmail.com} \\ \ \href{https://github.com/Nandan-N}{Github/Nandan} \\ \href{www.nandann.me}{www.nandann.me}} %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{OBJECTIVE}
+
+%{ . }
+
+
+%\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Bachelor of Technology, Computer Science}   Pes University \hfill {Expected 2025}\\
+Member of Center of Innovation and Entrepreneurship (CIE) \\
+{\bf Relevant Coursework}:
+%Member of Upsilon Pi Epsilon \\
+Python for Computational Problem Solving;
+Elements of Electrical Engineering;
+Engineering Mathematics 1;
+Mechanical Engineering Sciences;
+Engineering Physics;
+Problem Solving with C;
+Engineering Mechanics Statics;
+Electronic principles and Systems;
+Engineering Mathematics 2;
+Digital Design and Computer Organisation;
+Data Structures;
+Statistics for Data Science;
+Web Technologies;
+Automata, Formal Language and Logic.
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages & C, Python, HTML/CSS, JavaScript, LaTeX\\
+Tools and Frameworks & Linux, Git, Flask, React, OpenCV, GIS, ROS, Selenium, Tensorflow\\
+\end{tabular}\\
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+ 
+\textbf{Lead Web Developer} \hfill July 2022 - present\\
+Minerva Club \hfill \textit{Pes University}
+ \begin{itemize}
+ %   \itemsep -2pt {} 
+     \item Built and implemented a website from scratch using MERN stack \\
+ %    \item Led XYZ which led to X\% of improvement in ABC
+ %   \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ \end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{8 Bit Computer} \\ {Implemented a 8-bit General Purpose Computer on FPGA board having load-store architecture using Verilog HDL\\
+• Built a memory module and an ALU with CLA adder and Booth \\
+• Implemented Recursive function calls and the General Purpose Computer could run programs and display results through LED\\
+• Implemented an Interpreted and Compiler for the programs to be run on this General Purpose Computer\\
+• Chosen as one of the best projects in the course}
+\item \textbf{Help support website.} \\ {Built a free website for the "Hands of Hope" NGO foundation, with features like Chat system, mental health resources and stress tests. This website was selected as one of the top 3 projects in "Haul it away", an annual hackathon.}
+\item \textbf{Git System} \\ {Built a local git system that do various standard functions like create a repository, commit, and push itself to GitHub } \\
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Extra-Curricular Activities} 
+\begin{itemize}
+    \item	\textbf{Writer and Reporter}\\
+Writer at "FYI", university newsletter. Reporter of college annual fest,  Aatmatrisha '22. 
+    \item	\textbf{Quiz member, Quiz Quotient Corps club.} \\ Have participated in various quiz tournaments across campus and other Universities.  \\
+\end{itemize}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Honours} 
+\begin{itemize}
+    \item \textbf{24th APRSAF Space Conference} \\
+    Hosted by ISRO, India and JAXA, Japan\\
+    Represented my nation India in front of 13 other asian pacific nations in the water rocket competetion assossiated with the space conference, while  learning under ISRO. \\
+\end{itemize}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Languages} 
+\begin{itemize}
+    \item 	\textbf{Kannada, English, Sanskrit, Hindi, Telugu, Spanish, Japanese} \\
+    (Domain head member of Linguista, language learning club of the University) \\
+\end{itemize}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Certification courses} 
+\begin{itemize}
+    \item 	\textbf{Supervised Machine Learning: Regression and Classification} \\
+    Andrew Ng, Coursera 
+    \item 	\textbf{Unsupervised Learning, Recommenders, Reinforcement Learning}\\
+    Andrew Ng, Coursera 
+    \item 	\textbf{Advanced Learning Algorithms} \\
+    Andrew Ng, Coursera
+    \item  	\textbf{Digital Marketing}\\
+    Google 
+    \item 	\textbf{Integrated Robotics and Applied Computer Vision} \\
+    PesU IO 
+\end{itemize}
+
+
+\end{rSection}
+
+\end{document}
