@@ -50,7 +50,7 @@ Automata, Formal Languages and Logic.
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
 Languages & C, Python, HTML/CSS, JavaScript, LaTeX, Markdown\\
-Technologies and Frameworks & Linux, Git, Flask, React, OpenCV, GIS, ROS, Selenium, Tensorflow
+Technologies and Frameworks & Linux, Git, Flask, React, Open-CV, GIS, ROS, Selenium, TensorFlow
 \end{tabular}\\
 \end{rSection}
 
@@ -98,7 +98,7 @@ Technologies and Frameworks & Linux, Git, Flask, React, OpenCV, GIS, ROS, Seleni
 \begin{rSection}{Extra-Curricular Activities} 
 \begin{itemize}
     \item 	\textbf{Writer and Reporter} \\
-Writer at "FYI", university newsletter committee member. Have written several short stories, articles, reports and interview transcripts. Reporter of college annual fest, Aatmatrisha '22. Blog writer at Reasearch Et Al.
+Writer at "FYI", university newsletter committee member. Have written several short stories, articles, reports and interview transcripts. Reporter of college annual fest, Aatmatrisha '22. Blog writer at Research Et Al.
 
     \item	\textbf{Quiz member, Quiz Quotient Corps club.} \\ Core member. Have participated in various quiz tournaments across campus and other Universities. 
     \item	\textbf{Language learner} \\  Can speak over 6 languages. Domain Head of Linguista - the language learning club. Have held workshops.
@@ -110,8 +110,8 @@ Writer at "FYI", university newsletter committee member. Have written several sh
 %----------------------------------------------------------------------------------------
 \begin{rSection}{Honours} 
 \begin{itemize}
-    \item \textbf{24th APRSAF Space Cconference} \\
-    Represented my nation India in front of 13 other asian pacific nations in the water rocket competetion assossiated with the space conference, while  learning under ISRO.
+    \item \textbf{24th APRSAF Space Conference} \\
+    Represented my nation India in front of 13 other Asian pacific nations in the water rocket competition associated with the space conference, while  learning under ISRO.
 \end{itemize}
 
 \end{rSection}
