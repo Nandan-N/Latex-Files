@@ -1,0 +1,129 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.3in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Nandan N} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91 99168 84047 \\ Bangalore, India \\ \href{https://www.linkedin.com/in/nandan-n-917416225/}{linkedin.com/Nandan}} 
+\address{\href{mailto:write2nandann@gmail.com}{write2nandann@gmail.com} \\ \ \href{https://github.com/Nandan-N}{Github/Nandan-N} \\ \href{www.nandann.me}{www.nandann.me}}  %
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{OBJECTIVE}
+
+%{ . }
+
+
+%\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Bachelor of Technology, Computer Science and Engineering}  \hfill {Expected 2025}\\
+GPA - 3.76/4 (9.25/10) (As of 3rd semester) \hfill {PES University}\\
+ Core member of 'Research Et Al', 'Write angle', 'Quiz Corps', 'Linguista', 'Debsoc' and 'IEEE CSE' clubs. 
+\end{rSection}
+
+\begin{rSection}{Relevant Coursework}
+Python for Computational Problem Solving;
+Problem Solving with C;
+Engineering Mathematics;
+Digital Design and Computer Organisation;
+Data Structures;
+Statistics for Data Science;
+Web Technologies;
+Automata, Formal Languages and Logic;
+Operating Systems;
+Design of Algorithms;
+Computer Networks;
+Engineering chemistry.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages & C, Python, HTML/CSS, JavaScript, LaTeX, Markdown\\
+Technologies and Frameworks & Linux, Git, React, OpenCV, GIS, Selenium, TensorFlow
+\end{tabular}
+\end{rSection}
+
+%\begin{rSection}{EXPERIENCE}
+ 
+%\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+%Company Name \hfill \textit{San Francisco, CA}
+ %\begin{itemize}
+ %   \itemsep -3pt {} 
+%     \item Achieved X\% growth for XYZ using A, B, and C skills.
+%     \item Led XYZ which led to X\% of improvement in ABC
+ %   \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ %\end{itemize}
+
+%\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Experience}
+
+\textbf{Research Intern, Human Computer Interaction lab \hfill {Oct 2022 - present} } \\
+Analyzing and studying the effects of confirmation bias on information seeking and evaluation in online environments, including the role of social media in shaping attitudes and beliefs as well as working on a model to predict it.
+
+\begin{rSection}{Work experience} 
+\textbf{Full Stack Web Intern \hfill {Fabitin, Oct 2022 -Dec 2022} }\\
+Designed and developed a fully functional website utilizing the MERN stack, including hosting and deployment.
+\end{rSection}
+
+\end{rSection}
+
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{8 Bit Computer \hfill{Verilog, Hardware} }\\ {Implemented a 8-bit General Purpose Computer on FPGA board having load-store architecture using Verilog\\
+• Built a memory module and an ALU with CLA adder and Booth \\
+• Implemented Recursive function calls and the General Purpose Computer could run programs and display results\\
+• Implemented an Interpreted and Compiler for the programs to be run on this General Purpose Computer}
+\item \textbf{Help support website. \hfill{HTML, CSS, Firebase} }\\
+{Successfully designed and developed a free functional website for the "Hands of Hope" NGO foundation in Mumbai, featuring a chat system, mental health resources, and stress tests.}
+
+\end{rSection} 
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Achievements} 
+\textbf{Rocket modelling -} Participated in an international water rocket competition as a representative of India, competing against 13 other countries in the Asian Pacific region. Worked under the guidance of the Indian Space Research Organisation (ISRO) to design and build a successful water rocket. \\
+\textbf{Open source contribution -} Have completed Hacktoberfest - 2022.   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Extra-Curricular Activities} 
+\textbf{Writer and Reporter -} Experienced writer with a strong background in journalism and creative writing. Published numerous short stories, articles, reports, and interview transcripts as a writer for the university newsletter "FYI" and as a reporter for the college news team. Also contributed to a blog as a writer for Research Et Al. \\
+\textbf{Language learning -} Fluent in 6 languages. Head of Linguista, language learning club. Have held 4 workshops.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{online Certifications} 
+Supervised Machine Learning: Regression and Classification
+\textit{From Andrew Ng, Coursera}
+• Unsupervised Learning, Recommenders, Reinforcement Learning
+\textit{From Andrew Ng, Coursera}
+• Advanced Learning Algorithms
+\textit{From Andrew Ng, Coursera}
+• Complete Web Development bootcamp
+\textit{From Angela Yu, Udemy}
+• Digital Marketing
+\textit{From Google Digital}
+• Integrated Robotics and Applied Computer Vision
+\textit{From PesU IO}
+
+\end{rSection}
+
+\end{document}
