@@ -1,0 +1,169 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.3in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Nandan N} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+91 99168 84047 \\ Bangalore, India \\ \href{https://www.linkedin.com/in/nandan-n-917416225/}{linkedin.com/Nandan}} 
+\address{\href{mailto:write2nandann@gmail.com}{write2nandann@gmail.com} \\ \ \href{https://github.com/Nandan-N}{Github/Nandan-N} \\ \href{www.nandann.me}{www.nandann.me}}  %
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{OBJECTIVE}
+
+%{ . }
+
+
+%\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Bachelor of Technology}  \hfill {Expected 2025}\\
+Sophomore, Computer Science and Engineering \hfill {PES University}\\
+GPA - 3.76/4 (9.25/10) (As of 3rd semester) \\
+Entire Education Background is in English Medium \\
+• Core member of 'Research Et Al', 'Write angle', 'Quiz Corps', 'Linguista', 'Debsoc' and 'IEEE CSE' clubs.  \\
+• First Place, Solance 2019 - Inter Department Project Exhibition, among 400 exhibits. \\
+• Co-Founded the university's largest literature club Club, Write angle \\
+• Teaching Assistant of UE21CH141A, "Engineering Chemistry"
+
+{\bf High School}  \hfill {2016 - 2021}\\
+GPA - 3.87/4 (9.6/10)  \hfill {Seshadripuram High School}\\
+• Board Certificate of Excellence for securing 98\% in public matriculation exam and being in the top 0.5 percentile  \\
+• Class representative. President of the literature Club \\
+• 2x Winner, Inter-House Science Competition \\
+• 4x Model Student award, consecutive throughout my high school
+\end{rSection}
+
+\begin{rSection}{Relevant Coursework}
+Python for Computational Problem Solving;
+Problem Solving with C;
+Engineering Mathematics;
+Digital Design and Computer Organisation;
+Data Structures;
+Statistics for Data Science;
+Web Technologies;
+Automata, Formal Languages and Logic;
+Operating Systems;
+Design of Algorithms;
+Computer Networks;
+Engineering chemistry.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Languages & C, Python, HTML/CSS, JavaScript\\
+Technologies and Frameworks & Linux, Git, React, Open-CV, GIS, Selenium, TensorFlow
+\end{tabular}
+\end{rSection}
+
+%\begin{rSection}{EXPERIENCE}
+ 
+%\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+%Company Name \hfill \textit{San Francisco, CA}
+ %\begin{itemize}
+ %   \itemsep -3pt {} 
+%     \item Achieved X\% growth for XYZ using A, B, and C skills.
+%     \item Led XYZ which led to X\% of improvement in ABC
+ %   \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+ %\end{itemize}
+
+%\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Experience}
+
+\textbf{Research Intern, Human Computer Interaction lab \hfill {Oct 2022 - present} } \\
+• Working on "Analyzing and studying the effects of confirmation bias on information seeking and evaluation in online environments, including the role of social media in shaping attitudes and beliefs." \\
+• Collecting and organizing data, including online data such as social media posts and comments. \\
+• Analyzing data using statistical software and techniques, and interpreting the results to identify patterns and trends related to confirmation bias and social media impact. \\
+• Assisting in research presentations to the team or collaborating organizations.
+
+\textbf{Teaching Assistant. UE21CS141A - Engineering Chemistry \hfill {July 2022 - Nov 2022} } \\
+• Acted as a Teaching Assistant while still a sophomore \\
+• Successfully managed course website and online resources, including slides and notes \\
+• Contributed to the development and implementation of course assessments \\
+• Provided individualized student support through one-on-one assistance
+
+\textbf{Full Stack Web Intern, Fabitin  \hfill {Oct 2022 - Dec 2022} }\\
+• Actively involved in the design and planning of the website structure and layout. \\
+• Developed the website's front-end and back-end using the MERN stack technologies. \\
+• Deployed the website on a hosting platform, ensuring optimal performance and security. \\
+• Continuously optimized and maintained the website, monitoring for bugs and performance issues. \\
+• Increased Click rate by 30\%
+
+\end{rSection}
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{8 Bit Computer \hfill{Verilog, Hardware} }\\ {Implemented a 8-bit General Purpose Computer on FPGA board having load-store architecture using Verilog\\
+• Built a memory module and an ALU with CLA adder and Booth \\
+• Implemented Recursive function calls and the General Purpose Computer could run programs and display results\\
+• Implemented an Interpreted and Compiler for the programs to be run on this General Purpose Computer}
+\item \textbf{Help support website. \hfill{HTML, CSS, Firebase} }\\
+{• Successfully designed and developed a free functional website for the Hands of Hope NGO foundation in Mumbai, featuring a chat system, mental health resources, and stress tests. \\ Developed the website's back-end using the Google Firebase. \\ • Increased views by 25\% through Search Engine Optimization \\ • Maintained safe deployment and maintenance}
+\item \textbf{Pestles. \hfill{ReactJS, TailwindCSS} }\\
+{  • Developed and launched an open-source guidebook website to assist incoming undergraduate students in navigating the university.\\ • receives an average of 7,000 monthly views  }
+{project}
+\end{rSection} 
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Achievements} 
+\textbf{Rocket modelling} \\• Participated in an international water rocket competition as a representative of India, competing against 13 other countries in the Asian Pacific region.\\•  Worked under the guidance of the Indian Space Research Organisation (ISRO) to design and build a successful water rocket. \\
+\textbf{Open source contribution} \\•  Have completed Hacktoberfest - 2022.  \\ • Have contributed to various college open source  projects including building of college forum board
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Extra-Curricular Activities} 
+\textbf{Writer and Reporter} \\ 
+ • Published numerous short stories, articles, reports, and interview transcripts as a writer for FYI, the university newsletter and as a reporter for the college news team. \\•  Contributor and lead maintainer of Research Et Al medium blog. \\
+ \textbf{Quizzer} \\ • Core member and quiz master. Have won several state and national level quizzes. \\ • Have participated in various quiz tournaments representing my university. \\ 
+\textbf{Language learning } \\   •   Proficient in six languages. \\
+    • Led Linguista, a language learning club, as the head. \\
+    • Organized and conducted four workshops on language learning. \\
+    • Assisted over 160+ students in initiating language learning through individual or group instruction or resources provided. 
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{online Certifications} 
+• Introduction to Complexity -
+\textit{From Complexity explorer, Santa Fe Institute} \\
+• Game Theory -
+\textit{From Complexity explorer, Santa Fe Institute} \\
+• Supervised Machine Learning: Regression and Classification -
+\textit{From Andrew Ng, Coursera} \\
+• Unsupervised Learning, Recommenders, Reinforcement Learning -
+\textit{From Andrew Ng, Coursera} \\
+• Advanced Learning Algorithms -
+\textit{From Andrew Ng, Coursera} \\
+• Complete Web Development bootcamp -
+\textit{From Angela Yu, Udemy} \\
+• Digital Marketing -
+\textit{From Google Digital} \\
+• Integrated Robotics and Applied Computer Vision -
+\textit{From PESU IO} 
+\end{rSection}
+
+\begin{rSection}{Volunteering}
+\textbf{Community volunteer and other services} \\
+• Have mentored and tutored 80+ students in chemistry and Programming, both independently and as a TA  \\
+• Have helped plant over 100+ trees across the college, helping build a green ecological campus \\
+• Participated and led the community service projects of creating food banks and animal shelters 
+
+\end{rSection}
+
+
+\end{document}
